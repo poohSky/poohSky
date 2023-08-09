@@ -8,9 +8,9 @@
 
 ##
 
-<h3 align="left"> A passionate Software Engineer from South Korea</h3>
+<h3 align="left"> A passionate Software Engineer from South Korea :earth_asia: </h3>
 <div align="left">
-  It's really nice to have you here! :smiley:
+  It's really nice to have you here!
 </div>
 
 ##
