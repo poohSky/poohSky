@@ -97,11 +97,13 @@
 
 ##
 
+<!--
 <p>
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=poohsky&show_icons=true" alt="poohsky" />
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=poohsky&show_icons=true&locale=en" alt="poohsky" /> 
 </p>
-
+ -->
+ 
 ##
 
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
